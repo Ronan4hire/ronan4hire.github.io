@@ -11,9 +11,9 @@ demon lord
 ![My Artwork](img_2043.png)
 *Digital painting, 2025*
 
-## Second Piece
+## Angel Spraycan 
 ![My Artwork](AngelCan.PNG)
-*Ink sketch, 2022*
+*Digital Art, 2024*
 
 # Weapons 
 
