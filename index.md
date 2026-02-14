@@ -1,19 +1,7 @@
-
 ---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
 ---
-
-<style>
-  /* THIS IS THE ACTUAL CLASS IN YOUR HTML (SINGLE UNDERSCORE) */
-  .page_content p, 
-  .page_content a {
-    color: #8a2be2 !important;
-  }
-  .site-title {
-    color: #ffffff !important;
-  }
-</style>
 
 # My Artwork
 
