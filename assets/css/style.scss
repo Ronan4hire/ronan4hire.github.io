@@ -1,13 +1,20 @@
----
----
-
-@import 'jekyll-theme-cayman';
-
+// Override ALL Cayman theme colors
 body {
-  --text-color: #8a2be2 !important; /* Fixes body text (captions, etc.) */
+  --text-color: #8a2be2 !important; /* Body text (captions, etc.) */
+  --link-color: #8a2be2 !important;
 }
 .site-title {
-  color: #8a2be2 !important; /* Fixes the BIG title (Ronan4hire) */
+  color: #8a2be2 !important; /* SITE TITLE (Ronan4hire) */
+  background-color: #2c3e50 !important; /* Keep dark background (green) */
 }
+h1, h2 {
+  color: #8a2be2 !important; /* Headings (Portfolio, etc.) */
+}
+p {
+  color: #8a2be2 !important; /* Small text (grey) */
+}
+
+
+
 
 
