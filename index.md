@@ -1,6 +1,6 @@
 ---
 title: My Art Portfolio
-description: Digital artwork and illustrations
+description: Digital artwork,illustrations,sculptures, and more 
 ---
 
 # My Artwork
@@ -13,6 +13,7 @@ description: Digital artwork and illustrations
 ![My Artwork](artwork2.jpg)
 *Ink sketch, 2022*
 
-## Weapons 
-# Demon Sword
+# Weapons 
+
+## Demon Sword
 ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg)
