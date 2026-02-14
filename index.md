@@ -12,11 +12,15 @@ demon lord
 *Digital painting, 2025*
 
 ## Angel Spraycan 
-![My Artwork](AngelCan.PNG)
+![My Artwork](AngelCan.png)
 *Digital Art, 2024*
 
 ## Demon Spraycan
-![my artwork](DemonCan.PNG)
+![my artwork](DemonCan.png)
+
+## Skeleton Spraycan
+![](Skeletoncan.png)
+*Digital Art, 2023*
 
 # Weapons 
 ## Demon Sword
