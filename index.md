@@ -1,7 +1,6 @@
 <style>
   body, h1, h2, h3, h4, h5, h6, p, a { color: #8a2be2 !important; }
-  .site-title { color: #8a2be2 !important; }
-</style>
+  </style>
 ---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
