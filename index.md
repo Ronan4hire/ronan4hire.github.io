@@ -6,7 +6,7 @@ description: Digital artwork and illustrations
 # My Artwork
 
 ## First Piece
-![My Artwork](<img width="2388" height="1668" alt="img_2043" src="https://github.com/user-attachments/assets/7a02fdf8-04db-4cbd-9834-99760c71f500" />)
+![My Artwork](img_2043.png)
 *Digital painting, 2023*
 
 ## Second Piece
