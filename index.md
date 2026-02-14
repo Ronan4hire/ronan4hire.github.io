@@ -1,4 +1,18 @@
 ---
+title: "The ART of Ronan"
+description: Digital artwork, illustrations, sculptures, and more
+---
+<style>
+  .page .page-content > p, 
+  .page .page-content > a,
+  .page .page-title {
+    color: #8a2be2 !important;
+  }
+  .site-title {
+    color: #ffffff !important;
+  }
+</style>
+---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
 ---
