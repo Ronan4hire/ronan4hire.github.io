@@ -1,14 +1,10 @@
-// Override Cayman theme colors (PURPLE)
+// OVERWRITE CAYMAN THEME COLORS (PURPLE TEXT, WHITE TITLE)
 .site-title {
-  color: #8a2be2 !important; /* Site title (Ronan4hire) */
+  color: #ffffff !important; // KEEP TITLE WHITE (top-left)
 }
-h1, h2, h3, h4, h5, h6 {
-  color: #8a2be2 !important; /* Headings (Portfolio, Digital Art) */
+h1, h2, h3, h4, h5, h6, p, a {
+  color: #8a2be2 !important; // ALL TEXT = PURPLE (including your main heading)
 }
-p, a {
-  color: #8a2be2 !important; /* Captions & Links */
-}
-
 ---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
