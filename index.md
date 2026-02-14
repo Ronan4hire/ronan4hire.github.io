@@ -14,4 +14,4 @@ description: Digital artwork and illustrations
 *Ink sketch, 2022*
 
 ## Weapons 
-![Demon Sword](20200304_060632.jpg)
+![Demon Sword](20200304_060632.jpg,20200306_115717.jpg)
