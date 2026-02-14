@@ -1,4 +1,18 @@
 ---
+title: "The ART of Ronan"
+description: Digital artwork, illustrations, sculptures, and more
+---
+<style>
+  .page .page-content .page-title,
+  .page .page-content > p,
+  .page .page-content > a {
+    color: #8a2be2 !important;
+  }
+  .site-title {
+    color: #ffffff !important;
+  }
+</style>
+---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
 ---
@@ -21,10 +35,6 @@ demon lord
 ## Skeleton Spraycan
 ![](Skeletoncan.png)
 *Digital Art, 2023*
-
-## Pportal Animation 
-![](Portal.mp4)
-*Digital Animation, 2025*
 
 # Weapons 
 ## Demon Sword
