@@ -2,18 +2,16 @@
 title: The ART of Ronan
 description: Digital artwork, illustrations, sculptures, and more
 ---
-<style>
-  /* CRITICAL: Uses EXACT class name from your HTML (single underscore) */
-  .page_content p, 
-  .page_content a {
-    color: #8a2be2 !important;
-  }
-  .site-title {
-    color: #ffffff !important;
-  }
-</style>
+
+<!-- Navigation Buttons -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="#artwork" class="btn">Artwork</a>
+  <a href="#weapons" class="btn">Weapons</a>
+  <a href="#about" class="btn">About</a>
+</div>
 
 # My Artwork
+
 # Digital Art 
 ## Azathule 
 demon lord
