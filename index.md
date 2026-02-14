@@ -12,11 +12,12 @@ demon lord
 *Digital painting, 2025*
 
 ## Second Piece
-![My Artwork](artwork2.jpg)
+![My Artwork](Angel Can.PNG)
 *Ink sketch, 2022*
 
 # Weapons 
 
 ## Demon Sword
+*foam craft, 2020*
   ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg) ![](20200306_115726.jpg) 
   ![](20200306_124035.jpg) ![](20200401_234620.jpg) ![](20211217_152055.jpg)
