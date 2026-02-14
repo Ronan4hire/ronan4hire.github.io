@@ -15,6 +15,8 @@ demon lord
 ![My Artwork](AngelCan.PNG)
 *Digital Art, 2024*
 
+## Demon Spraycan
+![my artwork](DemonCan.PNG)
 # Weapons 
 
 ## Demon Sword
