@@ -12,7 +12,7 @@ demon lord
 *Digital painting, 2025*
 
 ## Second Piece
-![My Artwork](AngelCan.PNG)
+![My Artwork](Angel Can.PNG)
 *Ink sketch, 2022*
 
 # Weapons 
