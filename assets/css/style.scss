@@ -1,12 +1,47 @@
-/* FORCE OVERRIDE - MUST COME LAST IN THEME */
-.page h1 {
-  color: #8a2be2 !important; /* Main heading "The ART of Ronan" */
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Main body text */
+body {
+  color: #4a148c;
 }
-.page h2, .page h3, .page h4, .page p, .page a {
-  color: #8a2be2 !important; /* ALL TEXT = PURPLE */
+
+/* All headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #4a148c;
 }
-.site-title {
-  color: #ffffff !important; /* Top-left title stays WHITE (repo name) */
+
+/* Page header text (banner area) */
+.page-header {
+  color: #4a148c;
+}
+
+/* Project name (main title in header) */
+.project-name {
+  color: #4a148c;
+}
+
+/* Project tagline */
+.project-tagline {
+  color: #4a148c;
+}
+
+/* All links */
+a {
+  color: #6a1b9a;
+}
+
+/* Links on hover */
+a:hover {
+  color: #4a148c;
+  text-decoration: underline;
+}
+
+/* Main content area text */
+.main-content {
+  color: #4a148c;
 }
 
 
