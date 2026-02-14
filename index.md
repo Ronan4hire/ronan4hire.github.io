@@ -17,8 +17,8 @@ demon lord
 
 ## Demon Spraycan
 ![my artwork](DemonCan.PNG)
-# Weapons 
 
+# Weapons 
 ## Demon Sword
 *foam craft, 2020*
   ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg) ![](20200306_115726.jpg) 
