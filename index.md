@@ -1,11 +1,3 @@
-// OVERWRITE CAYMAN THEME COLORS (PURPLE TEXT, WHITE TITLE)
-.site-title {
-  color: #ffffff !important; // KEEP TITLE WHITE (top-left)
-}
-h1, h2, h3, h4, h5, h6, p, a {
-  color: #8a2be2 !important; // ALL TEXT = PURPLE (including your main heading)
-}
-
 ---
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
