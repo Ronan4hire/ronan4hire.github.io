@@ -1,13 +1,14 @@
-/* FIX FOR CAYMAN THEME - MUST USE THESE SELECTORS */
+/* FORCE OVERRIDE - MUST COME LAST IN THEME */
 .page h1 {
-  color: #8a2be2 !important; /* Main heading (centered) */
+  color: #8a2be2 !important; /* Main heading "The ART of Ronan" */
 }
 .page h2, .page h3, .page h4, .page p, .page a {
-  color: #8a2be2 !important; /* All other text */
+  color: #8a2be2 !important; /* ALL TEXT = PURPLE */
 }
 .site-title {
-  color: #ffffff !important; /* Keeps top-left title WHITE (repo name) */
+  color: #ffffff !important; /* Top-left title stays WHITE (repo name) */
 }
+
 
 
 
