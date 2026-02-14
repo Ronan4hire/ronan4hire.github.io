@@ -3,9 +3,9 @@ title: "The ART of Ronan"
 description: Digital artwork, illustrations, sculptures, and more
 ---
 <style>
-  .page .page-content .page-title,
-  .page .page-content > p,
-  .page .page-content > a {
+  /* THIS IS THE ONLY SELECTOR THAT WORKS FOR YOUR SITE */
+  .page-content p, 
+  .page-content a {
     color: #8a2be2 !important;
   }
   .site-title {
