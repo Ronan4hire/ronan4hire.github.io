@@ -5,9 +5,11 @@ description: Digital artwork,illustrations,sculptures, and more
 
 # My Artwork
 
-## First Piece
+# Digital Art 
+## Azathule 
+demon lord
 ![My Artwork](img_2043.png)
-*Digital painting, 2023*
+*Digital painting, 2025*
 
 ## Second Piece
 ![My Artwork](artwork2.jpg)
@@ -16,4 +18,5 @@ description: Digital artwork,illustrations,sculptures, and more
 # Weapons 
 
 ## Demon Sword
-![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg)
+  ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg) ![](20200306_115726.jpg) 
+  ![](20200306_115726.jpg)
