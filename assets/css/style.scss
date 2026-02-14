@@ -3,50 +3,66 @@
 
 @import "{{ site.theme }}";
 
-/* Main body text */
+/* Override ALL text colors to dark purple */
 body {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
 /* All headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
 /* Page header text (banner area) */
 .page-header {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
 /* Project name (main title in header) */
 .project-name {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
 /* Project tagline */
 .project-tagline {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
 /* All links */
 a {
-  color: #6a1b9a;
+  color: #6a1b9a !important;
 }
 
 /* Links on hover */
 a:hover {
-  color: #4a148c;
+  color: #4a148c !important;
   text-decoration: underline;
 }
 
-/* Main content area text */
+/* Main content area */
 .main-content {
-  color: #4a148c;
+  color: #4a148c !important;
 }
 
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #4a148c !important;
+}
 
+/* Buttons */
+.btn {
+  color: #4a148c !important;
+  border-color: #4a148c !important;
+}
 
-
+/* Any remaining elements */
+p, li, span, div {
+  color: inherit;
+}
 
 
 
