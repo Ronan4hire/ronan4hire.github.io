@@ -4,7 +4,10 @@
 @import 'jekyll-theme-cayman';
 
 body {
-  --text-color: #8a2be2 !important;
-  --link-color: #8a2be2 !important;
+  --text-color: #8a2be2 !important; /* Fixes body text (captions, etc.) */
 }
+.site-title {
+  color: #8a2be2 !important; /* Fixes the BIG title (Ronan4hire) */
+}
+
 
