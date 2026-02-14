@@ -3,6 +3,7 @@
 title: The ART of Ronan
 description: Digital artwork,illustrations,sculptures, and more 
 ---
+
 <style>
   /* THIS IS THE ACTUAL CLASS IN YOUR HTML (SINGLE UNDERSCORE) */
   .page_content p, 
