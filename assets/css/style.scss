@@ -4,6 +4,7 @@
 @import 'jekyll-theme-cayman';
 
 body {
-  --text-color: #8a2be2; // Vibrant purple (hex code)
-  --link-color: #8a2be2;
+  --text-color: #8a2be2 !important;
+  --link-color: #8a2be2 !important;
 }
+
