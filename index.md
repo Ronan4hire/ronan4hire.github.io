@@ -47,7 +47,8 @@ demon lord
 *Digital Art, 2025*
 
 # Sculpts 
-
+## Tree Can
+![](treecan.jpg) 
 
 # Weapons 
 ## Demon Sword
@@ -59,19 +60,4 @@ demon lord
   ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
   *foam craft, 2019*
 
-  ## Mercy Spraycan 
-![](MercyCan1.jpg) 
-*Spray can Sculpt, 2019*
-
-## Skelton Can 
-![](SkeletoncanSculpt.jpg)
-*Spray Can Sculpt, 2019*
-
-## Deadpool Can
-![](deadpoolcan.jpg)
-*Spray can Sculpt, 2019*
-
-## Tree Spraycan
-![](treecan.jpg)
-*Spray can Sculpt, 2019*
 
