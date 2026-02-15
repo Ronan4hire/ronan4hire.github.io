@@ -55,6 +55,18 @@ demon lord
 ![](Mercycan1.jpg) ![](Mercycan2.jpg) ![](Mercycanback.jpg)
 *Spray can sculpt, 2019*
 
+## Tree Spraycan
+![](treecan.jpg)
+*Spray can Sculpt, 2019*
+
+## Demon Spraycan 
+![](demoncansculpt1.JPG) ![](demoncansculpt2.JPG)
+*Spray can Sculpt, 2023*
+
+## Deadpool Spraycan
+![](deadpoolcan.jpg)
+*Spray can Sculpt, 2019*
+
 # Weapons 
 ## Demon Sword
 *foam craft, 2020*
@@ -65,4 +77,7 @@ demon lord
   ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
   *foam craft, 2019*
 
+## march Hair Hammer
+![](MarchHairHammer.jpg)
+*foam craft, 2019*
 
