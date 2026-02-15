@@ -7,7 +7,7 @@ description: Digital artwork, illustrations, sculptures, and more
 <div style="text-align: center; margin: 20px 0;">
   <a href="#Digitalartwork" class="btn">DigitalArtwork</a>
   <a href="#weapons" class="btn">Weapons</a>
-  <a href="#about" class="btn">About</a>
+  <a href="#sculpts" class="btn">Scilpts</a>
 </div>
 
 # My Artwork
@@ -26,12 +26,43 @@ demon lord
 ![my artwork](DemonCan.png)
 *digital Art, 2025*
 
-## Sailor Moonicorn
-![](Sailormoonicorn.PNG)
-
 ## Skeleton Spraycan
 ![](Skeletoncan.png)
 *Digital Art, 2023*
+
+## Sailor Moonicorn
+![](Sailormoonicorn.PNG)
+Digital Art, 2025*
+
+## ScareCrow
+![](ScareCrow.png)
+*Digital Art, 2025*
+
+## Wendigo
+![](Wendigo.PNG)
+*Digital Art, 2021*
+
+## Ronanwise The Dancing Spider
+![](rnws.PNG)
+*Digital Art, 2025*
+
+# Sculpts 
+## Mercy Spraycan 
+![](MercyCan1.jpg) ![](MercyCan2.jpg) ![](Mercycanback.jpg) 
+*Spray can Sculpt, 2019*
+
+## Skelton Can 
+![](SkeletoncanSculpt.jpg)
+*Spray Can Sculpt, 2019*
+
+## Deadpool Can
+![](deadpoolcan.jpg)
+*Spray can Sculpt, 2019*
+
+## Tree Spraycan
+![](treecan.jpg)
+*Spray can Sculpt, 2019*
+
 
 # Weapons 
 ## Demon Sword
