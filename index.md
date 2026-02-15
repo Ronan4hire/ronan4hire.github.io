@@ -39,7 +39,7 @@ demon lord
 *Digital Art, 2025*
 
 ## Wendigo
-![](Wendigo.PNG)
+![](Wendigo.png)
 *Digital Art, 2021*
 
 ## Ronanwise The Dancing Spider
@@ -49,7 +49,7 @@ demon lord
 # Sculpts 
 
 ## Mercy Spraycan 
-![](MercyCan1.jpg) ![](MercyCan2.jpg) ![](Mercycanback.jpg) 
+![](MercyCan1.jpg) 
 *Spray can Sculpt, 2019*
 
 ## Skelton Can 
