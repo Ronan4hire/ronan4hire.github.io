@@ -48,7 +48,18 @@ demon lord
 
 # Sculpts 
 
-## Mercy Spraycan 
+
+# Weapons 
+## Demon Sword
+*foam craft, 2020*
+  ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg) ![](20200306_115726.jpg) 
+  ![](20200306_124035.jpg) ![](20200401_234620.jpg) ![](20211217_152055.jpg)
+
+  ## Foam Axe
+  ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
+  *foam craft, 2019*
+
+  ## Mercy Spraycan 
 ![](MercyCan1.jpg) 
 *Spray can Sculpt, 2019*
 
@@ -64,15 +75,3 @@ demon lord
 ![](treecan.jpg)
 *Spray can Sculpt, 2019*
 
-
-# Weapons 
-## Demon Sword
-*foam craft, 2020*
-  ![Demon Sword](20200304_060632.jpg) ![](20200306_115717.jpg) ![](20200306_115726.jpg) 
-  ![](20200306_124035.jpg) ![](20200401_234620.jpg) ![](20211217_152055.jpg)
-
-  ## Foam Axe
-  ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
-  *foam craft, 2019*
-
-  
