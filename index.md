@@ -46,6 +46,11 @@ demon lord
 ![](rnws.PNG)
 *Digital Art, 2025*
 
+# Sculpts
+## Skeleton Spraycan
+![](SkeletonCanSculpt.jpg) 
+*spraycan sculpt, 2019*
+
 # Weapons 
 ## Demon Sword
 *foam craft, 2020*
