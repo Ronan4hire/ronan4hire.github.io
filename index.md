@@ -32,7 +32,7 @@ demon lord
 
 ## Sailor Moonicorn
 ![](Sailormoonicorn.PNG)
-Digital Art, 2025*
+*Digital Art, 2025*
 
 ## ScareCrow
 ![](ScareCrow.png)
@@ -47,6 +47,7 @@ Digital Art, 2025*
 *Digital Art, 2025*
 
 # Sculpts 
+
 ## Mercy Spraycan 
 ![](MercyCan1.jpg) ![](MercyCan2.jpg) ![](Mercycanback.jpg) 
 *Spray can Sculpt, 2019*
