@@ -7,7 +7,7 @@ description: Digital artwork, illustrations, sculptures, and more
 <div style="text-align: center; margin: 20px 0;">
   <a href="#Digitalartwork" class="btn">DigitalArtwork</a>
   <a href="#weapons" class="btn">Weapons</a>
-  <a href="#sculpts" class="btn">Scilpts</a>
+  <a href="#sculpts" class="btn">Sculpts</a>
 </div>
 
 # My Artwork
