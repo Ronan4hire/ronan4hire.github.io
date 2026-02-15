@@ -51,6 +51,10 @@ demon lord
 ![](SkeletonCanSculpt.jpg) 
 *spraycan sculpt, 2019*
 
+## Mercy Spraycan
+![](Mercycan1.jpg) ![](Mercycan2.jpg) ![](Mercycanback.jpg)
+*Spray can sculpt, 2019*
+
 # Weapons 
 ## Demon Sword
 *foam craft, 2020*
