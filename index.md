@@ -55,6 +55,5 @@ demon lord
   ## Foam Axe
   ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
   *foam craft, 2019*
-## Spray can 
-![](SkeletoncanSculpt.jpg) 
+
 
