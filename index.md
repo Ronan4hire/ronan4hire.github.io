@@ -46,11 +46,6 @@ demon lord
 ![](rnws.PNG)
 *Digital Art, 2025*
 
-# Sculpts 
-## Tree Can
-![](treecan.jpg) 
-![](SkeletoncanSculpt.jpg)
-
 # Weapons 
 ## Demon Sword
 *foam craft, 2020*
@@ -60,5 +55,6 @@ demon lord
   ## Foam Axe
   ![](FoamAXE1.jpg) ![](FoamAxe.jpg)
   *foam craft, 2019*
-
+## Spray can 
+![](SkeletoncanSculpt.jpg) 
 
