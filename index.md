@@ -49,6 +49,7 @@ demon lord
 # Sculpts 
 ## Tree Can
 ![](treecan.jpg) 
+![](SkeletoncanSculpt.jpg)
 
 # Weapons 
 ## Demon Sword
